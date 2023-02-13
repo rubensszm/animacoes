@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Router, RouteReuseStrategy } from '@angular/router';
+import { Router } from '@angular/router';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 
 import { TarefaService } from 'src/app/service/tarefa.service';
