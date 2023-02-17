@@ -37,9 +37,9 @@
     },
     {
       "id": 7,
-      "descricao": "Dar ração a gata",
-      "statusFinalizado": false,
+      "descricao": "Alimentar a \"felinda\"",
       "categoria": "Casa",
+      "statusFinalizado": true,
       "prioridade": "Alta"
     }
   ]
