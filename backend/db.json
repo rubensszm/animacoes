@@ -31,8 +31,15 @@
     {
       "id": 6,
       "descricao": "Ler",
-      "statusFinalizado": false,
       "categoria": "Estudos",
+      "statusFinalizado": true,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 7,
+      "descricao": "Dar ração a gata",
+      "statusFinalizado": false,
+      "categoria": "Casa",
       "prioridade": "Alta"
     }
   ]
